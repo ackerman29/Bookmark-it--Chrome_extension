@@ -1,31 +1,34 @@
 # Youtube-bookmark-Chrome_extension
 YouTube Bookmarks is a browser extension that allows users to save and manage bookmarks for specific timestamps in YouTube videos. It provides a convenient way to mark important or interesting moments in videos, making it easy to revisit them later.
 
-Features:
-Automatically detects YouTube video pages and adds a bookmark button to the player interface.
+__________________________Features:____________________________________
 
-Clicking the bookmark button saves the current timestamp as a bookmark for the video.
+•Automatically detects YouTube video pages and adds a bookmark button to the player interface.
 
-Bookmarks are stored locally and synchronized across devices using Chrome storage.
+•Clicking the bookmark button saves the current timestamp as a bookmark for the video.
 
-Bookmarks are displayed in a popup window, allowing users to view, play, and delete bookmarks.
+•Bookmarks are stored locally and synchronized across devices using Chrome storage.
 
-Each bookmark shows the timestamp and a brief description.
+•Bookmarks are displayed in a popup window, allowing users to view, play, and delete bookmarks.
 
-Supports smooth navigation to bookmarked timestamps within the YouTube video player.
+•Each bookmark shows the timestamp and a brief description.
 
-Technologies Used:
-JavaScript
+•Supports smooth navigation to bookmarked timestamps within the YouTube video player.
 
-Chrome Extension API
+_______________Technologies Used:_____________________________________
 
-HTML
+•JavaScript
 
-CSS
+•Chrome Extension API
 
-Getting Started
+•HTML
+
+•CSS
+
+_________________________________Getting Started:________________________________
 
 To use the YouTube Bookmarks extension, follow these steps:
+
 Clone the repository to your local machine.
 Open the Google Chrome browser.
 Go to chrome://extensions in the address bar.
