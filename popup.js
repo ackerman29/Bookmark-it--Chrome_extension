@@ -90,3 +90,4 @@ document.addEventListener("DOMContentLoaded", async () => {
     container.innerHTML = '<div class="title">This is not a youtube video page.</div>';
   }
 });
+
