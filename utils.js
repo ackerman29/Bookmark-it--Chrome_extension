@@ -6,3 +6,4 @@ export async function getActiveTabURL() {
   
     return tabs[0];
 }
+
